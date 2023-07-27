@@ -1,2 +1,2 @@
 # UpSkill-Campus
-Python Project on File Organizer
+DS and ML project on Forecasting Smart City Traffic Pattern and Python Project on File Organizer
